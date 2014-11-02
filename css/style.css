@@ -1,0 +1,144 @@
+@charset "utf-8";
+
+html
+{
+	overflow:hidden;
+}
+
+body
+{ 
+   	background-size: cover;
+  	-webkit-background-size:cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+    border:none;
+	-webkit-font-smoothing: antialiased;
+	-webkit-overflow-scrolling: touch;
+	-moz-font-smoothing: antialiased;
+	-moz-overflow-scrolling: touch;	
+}
+
+
+.navbar
+{
+	z-index:1;
+	font-family:"Dosis", Arial, sans-serif;
+	font-size:16px; 
+	text-transform:uppercase;
+	background-color:rgba(0,0,0,1);
+	
+}
+
+
+.navbar-header
+{
+	font-family:"Indie Flower", Arial, sans-serif;
+	color:#b69f57;
+	font-size:24px;
+	text-transform:none;
+	background-color:rgba(0,0,0,1);
+}
+
+#tags
+{
+	margin-top:10%;
+	text-align:center;
+	padding-top:5%;
+}
+
+#tags h1
+{
+	font-weight:700;
+	font-size: 130px;
+	color:#B69F57;
+	font-family:"Indie Flower", Arial, sans-serif;
+}
+
+#tags h3
+{
+	font-weight:400;
+	font-size:30px;
+	color:#eee;
+	font-family:"Philosopher", Georgia, sans-serif;
+}
+
+.wrapper
+{
+	background:rgba(0,0,0,0.5);
+	height:670px;
+	
+}
+
+#search
+{
+	margin-top:2%;
+	margin-left:15%;
+}
+
+select, .btn
+{
+	font-family:"PT Sans", Arial, sans-serif;
+	font-size:14px;
+}
+
+.btn
+{
+	border-radius:0px;
+	width:150px;
+	background:rgba(0,0,0,0.4);
+	border:1px solid #ccc;
+	color:#ccc;
+}
+
+.btn:hover
+{
+	border:1px solid #fff;
+	color:#fff;
+}
+
+#about
+{
+	margin-top:10%;
+	margin-left:5%;
+}
+
+#about h1
+{
+	font-family:"Philosopher", Georgia, serif;
+	color:#eee;
+}
+
+#about h3
+{
+	text-align:justify;
+	font-family:"Roboto", Arial, sans-serif;
+	color:#eee;
+	font-size:18px;
+	line-height:30px;
+}
+
+#about h4
+{
+	color:#eee;
+	line-height:30px;
+	text-align:center;
+	font-family:"Roboto";
+}
+.table_results
+{
+	font-size:24px;
+}
+.table_results p
+{
+	font-size:14px;
+}
+
+.table_results hr
+{
+	width:200px;
+}
+
+.testing_font
+{
+	font-family:"Philosopher", Georgia, sans-serif;
+}
