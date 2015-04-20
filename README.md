@@ -9,4 +9,4 @@ also incorporated a *Surprise Me* button, similar to the *I'm Feeling Lucky* but
 The data is sourced from the respective websites of the restaurants, TripAdvisor and Google, 
 and is hosted on Athena.
 
-Designed by **Sreeraag Mohan** and **Ronn Jacob**.
+Designed by **Ronn Jacob**.
