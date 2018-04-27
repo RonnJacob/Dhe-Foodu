@@ -1,6 +1,6 @@
-#Dhe Puttu
+# Dhe Puttu
 
-###About The Project
+### About The Project
 
 The website is titled 'Dhe Foodu' - malayalam slang for Food is Here and aims to be an
 online restaurant finding service for the city of Kozhikode. The service enables you to 
