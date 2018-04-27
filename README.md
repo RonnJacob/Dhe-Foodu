@@ -23,7 +23,7 @@ to these parameters
 
 ![alt text](https://github.com/RonnJacob/Dhe-Foodu/blob/master/Screenshots/About%20Us.png)
 
-### This would be the 'Contact Us' page. (Information is pretty accurate, so do feel free to contact us.)
+### This would be the 'Contact Us' page. (Information is pretty accurate, so do feel free to contact us. :smiley: )
 
 ![alt text](https://github.com/RonnJacob/Dhe-Foodu/blob/master/Screenshots/Contact%20Us.png)
 
